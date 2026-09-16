@@ -1,3 +1,9 @@
+#Project Group
+Kyrillos Tsoutsoulis AM:1116202200034
+Georgios Christianidis AM:11162022000
+
+COURSE: AEROSPACE705 - Space Software
+
 # FPrime CubeSat Orientation Tracking
 
 Flight software implementation for a simulated CubeSat orientation tracking mission, developed using NASA's F´ (FPrime) framework as part of the Flight Software course at the Aerospace Science and Technology Department, NKUA.
